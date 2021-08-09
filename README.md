@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elliot0x3
 - 👀 Blockchain and crypto currency enthusiast.
-- 🌱 Delvoing deep in to smart contracts and other technicalites of crypto.
+- 🌱 Delving deep in to smart contracts and other technicalites of crypto.
 - 💞️ I’m looking to collaborate on learning smart contracts.
 
 <!---
